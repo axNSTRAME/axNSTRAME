@@ -17,6 +17,7 @@ I'm a passionate developer and tech enthusiast with a love for solving real-worl
 
 ## My Skills 🧠
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Get in Touch 📬
 
