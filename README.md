@@ -12,7 +12,7 @@ I'm a passionate developer and tech enthusiast with a love for solving real-worl
 - 🌱 Currently learning: **Javascript**
 - 🔭 Working on: **Discord Application**
 - 🌍 Languages: **Hindi and English**
-- 📫 How to reach me: **Join my discord -** https://discord.gg/RZEmsNyJtJ
+- 📫 How to reach me: **Join my discord -** J
 - ⚡ Fun fact: **When I'm not coding, you can find me "diving into sci-fi novels," or "playing chess!"**
 
 ## My Skills 🧠
